@@ -17,29 +17,37 @@
 * **HQL (JPQL) "Likes"**
 
 <p align = "center">
-<img src="https://github.com/iizdebski/angular_course/blob/main/32_images/angular1.JPG">
+<img src="https://github.com/iizdebski/TwitterClone/blob/main/images/sweater_01.JPG">
 </p>
 
 <p align = "center">
-<img src="https://github.com/iizdebski/angular_course/blob/main/32_images/angular2.JPG">
+<img src="https://github.com/iizdebski/TwitterClone/blob/main/images/sweater_02.JPG">
 </p>
 
 <p align = "center">
-<img src="https://github.com/iizdebski/angular_course/blob/main/32_images/angular3.JPG">
+<img src="https://github.com/iizdebski/TwitterClone/blob/main/images/sweater_03.JPG">
 </p>
 
 <p align = "center">
-<img src="https://github.com/iizdebski/angular_course/blob/main/32_images/angular4.JPG">
+<img src="https://github.com/iizdebski/TwitterClone/blob/main/images/sweater_04.JPG">
 </p>
 
 <p align = "center">
-<img src="https://github.com/iizdebski/angular_course/blob/main/32_images/angular5.JPG">
+<img src="https://github.com/iizdebski/TwitterClone/blob/main/images/sweater_05.JPG">
 </p>
 
 <p align = "center">
-<img src="https://github.com/iizdebski/angular_course/blob/main/32_images/angular6.JPG">
+<img src="https://github.com/iizdebski/TwitterClone/blob/main/images/sweater_06.JPG">
 </p>
 
 <p align = "center">
-<img src="https://github.com/iizdebski/angular_course/blob/main/32_images/angular7.JPG">
+<img src="https://github.com/iizdebski/TwitterClone/blob/main/images/sweater_07.JPG">
+</p>
+
+<p align = "center">
+<img src="https://github.com/iizdebski/TwitterClone/blob/main/images/sweater_08.JPG">
+</p>
+
+<p align = "center">
+<img src="https://github.com/iizdebski/TwitterClone/blob/main/images/sweater_09.JPG">
 </p>
